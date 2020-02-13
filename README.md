@@ -1,2 +1,2 @@
-# water_source_selection
+# Water Source Selection
 Arduino controlled water source selection for irrigation system
